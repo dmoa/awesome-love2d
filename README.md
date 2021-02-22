@@ -89,6 +89,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [MakeLove](https://github.com/instilledbee/MakeLove) - Automated build creation for your projects, by monitoring changes in real-time (Windows Only)
 * [boon](https://github.com/camchenry/boon) - A cross-platform build tool for LÖVE
 * [lovelier](https://github.com/patrixr/lovelier) - A Love2D live reloader with Moonscript support
+* [love-export](https://github.com/dmoa/love-export) - A fast command line tool that creates binaries for Windows, Mac, and Linux.
 
 ## Drawing
 *Drawing specific Libraries, that simplify the Drawing process*
